@@ -75,7 +75,7 @@ const SideBar = () => {
         </ul>
         <br></br>
         <h3 className="newshead">
-            <a href="https://www.dennysunny.co">
+            <a href="https://hackernews.dennysunny.co">
             <b className="newspaper"> Lets Go Read Some HackerNews ? </b>
             </a>
         </h3>

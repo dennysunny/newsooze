@@ -6,7 +6,7 @@ const Footer = () => {
       <p className="footer">
         WhatAboutSome
         <a
-          href="https://www.dennysunny.co"
+          href="https://hackernews.dennysunny.co"
           target="_blank"
           rel="noreferrer noopener"
           className="footer"
